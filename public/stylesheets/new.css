@@ -3,7 +3,7 @@
 * {
     text-align: center;
     align-items: center;
-    color: aqua;
+    color: rgb(0, 255, 132);
     margin: 8%;
     font-style: url('https://fonts.googleapis.com/css2?family=Exo+2:ital,wght@0,100;1,100&family=Ysabeau:ital,wght@1,1&display=swap');
     font-family: 'Poppins', sans-serif;
@@ -16,4 +16,11 @@
     background-repeat: no-repeat;
     padding: 25%;
     font-size: 2vw;
+}
+
+
+
+h1 {
+    font-size: 5vw;
+    color: green;
 }

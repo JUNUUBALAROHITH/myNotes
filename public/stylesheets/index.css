@@ -52,7 +52,7 @@
     color: transparent;
     padding: 5px;
     animation: effect 2s linear infinite;
-    font-size: 3vw;
+    font-size: 8vw;
 }
 
 @keyframes effect {
